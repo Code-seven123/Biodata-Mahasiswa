@@ -1,9 +1,9 @@
 <?php
 $cfg["mysql_conn"] = [
-    "host" => "127.0.0.1",
-    "user" => "root",
-    "db" => "biodata_mahasiswa",
-    "pass" => "hakiki"
+    "host" => "db4free.net",
+    "user" => "codeseven",
+    "db" => "biodata",
+    "pass" => "hakiki####"
 ];
 //print_r($cfg);
 ?>
