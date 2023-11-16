@@ -1,19 +1,19 @@
-#-->Aplikasi Biodata Mahasiswa<--
+# -->Aplikasi Biodata Mahasiswa<--
 ===
 
-<h3>#Create Mysqli Table dan Database</h3>
+# Create Mysqli Table dan Database</h3>
 
-#Membuat Database
+## Membuat Database
 ```
-MariaDB [(none)] > create database form;
+M ariaDB [(none)] > create database form;
 ```
 
-#Menggunakan Database
+## Menggunakan Database
 ```
 MariaDB [(none)] > use form;
 ```
 
-#Membuat Table
+## Membuat Table
 ```
 MariaDB [form] > create table bioMhs (
     -> nama varchar(50) primary key,
